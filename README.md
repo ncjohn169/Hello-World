@@ -3,9 +3,11 @@
 This is a read me
 With Edits #2;  
 
-
-Test #2 after doing one merge 
-I need a laptop
-
-Times 2
+4/25 8:58am
+Training Plan
+  Git Lab - Actions and Workflows 
+  Azure 
+  Docker
+  
+  
 
